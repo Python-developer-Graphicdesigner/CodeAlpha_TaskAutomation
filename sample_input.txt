@@ -1,0 +1,11 @@
+Hi team,
+
+Please contact John at john.doe@example.com for the report,
+or reach out to sarah_smith@company.org if he's unavailable.
+CC our manager: Manager.Team@BigCorp.co for approvals.
+
+For support issues, email support@codealpha.tech or
+services.codealpha@gmail.com. Same address again: john.doe@example.com
+
+Thanks,
+Admin
